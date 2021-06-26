@@ -35,6 +35,8 @@ function Header() {
   <span class="input-group-text" id="basic-addon1">@</span>
   <input className="header-inp" type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1" />
 </div>
+<button type="button" id="lgnbtn" class="btn btn-primary">login</button>
+<button type="button"id="slbtn" class="btn btn-primary">sell</button>
 </header>
 </div>
     )

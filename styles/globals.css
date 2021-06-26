@@ -9,7 +9,7 @@ header{
 }
 .d-flex{
   margin-top: 15px;
-  margin-left: 20px;
+  margin-left: 50px;
 }
 #dropdownMenuOffset{
   background-color: #fff !important;
@@ -17,8 +17,21 @@ header{
   width: 150px;
 }
 .header-inp{
-  width: 50%;
+  width: 70%;
 }
 #inphead{
-  margin-left: 50px;
+  margin-left: 70px;
+  padding-top: 15px;
+}
+#lgnbtn{
+  margin-right: 100px;
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
+}
+#slbtn{
+  margin-right: 50px;
+  width: 100px;
+  height: 50px;
+  margin-top: 10px;
 }
