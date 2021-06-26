@@ -1,0 +1,24 @@
+.logo{
+  margin-left: 150px;
+  margin-top: 8px;
+}
+header{
+  background-color: #F7F8F8;
+  height: 65px;
+  display: flex;
+}
+.d-flex{
+  margin-top: 15px;
+  margin-left: 20px;
+}
+#dropdownMenuOffset{
+  background-color: #fff !important;
+  color: gray;
+  width: 150px;
+}
+.header-inp{
+  width: 50%;
+}
+#inphead{
+  margin-left: 50px;
+}
