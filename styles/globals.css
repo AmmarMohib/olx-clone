@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
 .logo{
   margin-left: 150px;
   margin-top: 8px;
@@ -14,7 +15,7 @@ header{
 #dropdownMenuOffset{
   background-color: #fff !important;
   color: gray;
-  font-size: 23px;
+  font-size: 2z3px;
   
   width: 200px;
 }
@@ -23,7 +24,7 @@ header{
   background-color:white;
   width: 30px;
   height: 10%;
-  display: inline;
+  display: inline-block
 }
 .me-1 i{
   color: black;
@@ -93,7 +94,7 @@ border: 20px 20px 20px solid black;
   width: 400px;
 }
 .fa-search{
-  margin-left: 5px;
+  margin-left: 7px;
 }
 .s-i{
   font-size: 30px;
@@ -102,4 +103,55 @@ border: 20px 20px 20px solid black;
   border-radius: 10px;
   width: 50px;
   color: white;
+}
+footer{
+  position:absolute;
+  left:0;
+  bottom:0;
+  right:0;
+}
+.appadd{
+  background-color: #F8FAF9;
+}
+.appadd h1{
+  margin-top: 20px;
+}
+.appadd img{
+  margin-left: 150px;
+}
+#ld{
+display: flex;
+flex-direction: column;
+}
+.ap{
+  margin-top: 30px;
+  margin-left: 50px;
+  font-size: 20px;
+}
+.app-img{
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+.app-img img{
+  width: 100px;
+  margin-left: 10px;
+}
+#mfc{
+  background-color: #EBEEEF;
+  width: 100.7%;
+}
+#mfc h5{
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  color: #002F4C;
+}
+#mfc p{
+  line-height: 5px;
+  font-weight: 300;
+  color: #80878a;
+}
+#mfc img{
+  width: 30px;
 }

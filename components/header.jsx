@@ -23,7 +23,7 @@ function Header() {
     <img className="logo" src="https://www.olx.com.pk/assets/logo_noinline.1cdf230e49c0530ad4b8d43e37ecc4a4.svg" alt="" />
     <div className="d-flex">
   <div className="dropdown me-1">
-    <button type="button" className="btn btn-secondary dropdown-toggle" id="dropdownMenuOffset" data-bs-toggle="dropdown" aria-expanded="false" data-bs-offset="10,20">
+    <button type="button" className="btn btn-secondary dropdown-toggle" id="dropdownMenuOffset" data-bs-toggle="dropdown" aria-expanded="true" data-bs-offset="10,20">
       <div className="i-d">
 <i className="fas fa-search"></i>
 </div>
